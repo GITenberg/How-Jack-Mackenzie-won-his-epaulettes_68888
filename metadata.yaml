@@ -1,0 +1,31 @@
+_repo: How-Jack-Mackenzie-won-his-epaulettes_68888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2022-09-01'
+identifiers:
+  gutenberg: '68888'
+language: en
+pgterms:marc905: 20220815224946stables
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :Thomas Nelson and Sons,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How Jack Mackenzie won his epaulettes
+url: http://www.gutenberg.org/ebooks/68888
